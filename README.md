@@ -36,6 +36,7 @@ Knowledge of SQL & NoSQL DB's like SQL Server, MySQL, MongoDB, Redis
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ## 🕵️‍♂️ Specialization
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Angular](<https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white>)
@@ -48,4 +49,5 @@ Knowledge of SQL & NoSQL DB's like SQL Server, MySQL, MongoDB, Redis
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Stranger22k)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sdesantosh7@gmail.com)
 
-<!-- ## Visit my Portfolio -->
+## 🎬Visit my Portfolio
+[Click Here](https://kumar-santosh.herokuapp.com)
