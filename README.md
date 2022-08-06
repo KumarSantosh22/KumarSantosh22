@@ -1,3 +1,5 @@
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Santosh%20Kumar%20&fontAlignY=40&color=gradient)
+
 # Hi👋 I'm Santosh Kumar
 
 Graudated with a Degree of **Bachelor of Technology**, specialized in **Computer Science & Technology** with **DIV-I Honours**.
