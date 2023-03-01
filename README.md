@@ -52,4 +52,4 @@ Knowledge of SQL & NoSQL DB's like SQL Server, MySQL, MongoDB, Redis
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sdesantosh7@gmail.com)
 
 ## 🎬Visit my Portfolio
-[Click Here](https://kumar-santosh.herokuapp.com)
+[Click Here](https://devsantosh.netlify.app)
