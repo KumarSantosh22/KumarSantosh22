@@ -3,7 +3,7 @@
 # Hi👋 I'm Santosh Kumar
 
 Graudated with a Degree of **Bachelor of Technology**, specialized in **Computer Science & Technology** with **DIV-I Honours**.
-Full Stack Developer with a depth knowledge of Backend & Frontend Technologies.
+Full Stack Developer with a depth knowledge of Backend, Frontend & Cloud Technologies.
 
 Exprience of developing robust server side application with Python (Fast API) and ASP Dotnet Core, with security OAuth2.0 & JWT Authentication and Authorization.
 
@@ -43,6 +43,7 @@ Knowledge of SQL & NoSQL DB's like SQL Server, MySQL, MongoDB, Redis
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Angular](<https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white>)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
 
 ## 🔍 Find me on
 
